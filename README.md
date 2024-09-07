@@ -9,6 +9,10 @@
 
 출발 노드: O, 도착 노드: T
 
+* 파일:
+    + Dijkstra_Algorithm.ipynb
+    + Dijkstra 알고리즘 발표ppt
+
 <hr>
 
 # Prim Algorithm with Python
@@ -20,3 +24,7 @@
 ![image](https://github.com/user-attachments/assets/bdb8b9fa-83bc-4dd4-8001-630dbcbbd2ba)
 
 출발 노드: O, 도착 노드: T
+
+
+* 파일:
+  + Prim_Algorithm.ipynb
