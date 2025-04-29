@@ -11,7 +11,7 @@
 
 * 파일:
     + Dijkstra_Algorithm.ipynb
-    + Dijkstra 알고리즘 발표ppt
+    + Dijkstra Algorithm.pdf
 
 <hr>
 
